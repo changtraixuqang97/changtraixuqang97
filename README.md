@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) -  (1 day ago)
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (4 days ago)
-- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (5 days ago)
+- [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) -  (2 days ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (5 days ago)
+- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
