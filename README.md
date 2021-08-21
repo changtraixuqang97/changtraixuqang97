@@ -13,6 +13,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [duytruongpham](https://github.com/duytruongpham)
 - [sarutobi12](https://github.com/sarutobi12)
 - [hoanbi1812000](https://github.com/hoanbi1812000)
 - [daphne97](https://github.com/daphne97)
