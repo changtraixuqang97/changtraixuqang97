@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (today)
+- [Hiroshiba/voicevox](https://github.com/Hiroshiba/voicevox) -  (today)
+- [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (1 day ago)
 - [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) -  (1 week ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 weeks ago)
 - [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (2 weeks ago)
