@@ -15,11 +15,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Hiimsonkul](https://github.com/Hiimsonkul)
 - [daphnetd](https://github.com/daphnetd)
 - [notmariekondo](https://github.com/notmariekondo)
 - [duytruongpham](https://github.com/duytruongpham)
 - [sarutobi12](https://github.com/sarutobi12)
-- [hoanbi1812000](https://github.com/hoanbi1812000)
 
 #### 💬 Feedback
 
