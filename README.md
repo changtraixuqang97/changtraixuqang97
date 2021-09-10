@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (3 days ago)
+- [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (4 days ago)
 - [Hiroshiba/voicevox](https://github.com/Hiroshiba/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのフロントエンド (2 weeks ago)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (2 weeks ago)
 - [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) -  (4 weeks ago)
