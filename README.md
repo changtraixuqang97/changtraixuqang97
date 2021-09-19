@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [duc-nt/RCE-0-day-for-GhostScript-9.50](https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50) - RCE 0-day for GhostScript 9.50 - Payload generator (4 days ago)
+- [duc-nt/RCE-0-day-for-GhostScript-9.50](https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50) - RCE 0-day for GhostScript 9.50 - Payload generator (5 days ago)
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (1 week ago)
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (1 week ago)
 - [Hiroshiba/voicevox](https://github.com/Hiroshiba/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのフロントエンド (3 weeks ago)
