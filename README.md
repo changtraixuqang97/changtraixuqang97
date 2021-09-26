@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (1 day ago)
-- [bpierre/loot-rarity](https://github.com/bpierre/loot-rarity) - 🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot. (3 days ago)
+- [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (2 days ago)
+- [bpierre/loot-rarity](https://github.com/bpierre/loot-rarity) - 🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot. (4 days ago)
 - [duc-nt/RCE-0-day-for-GhostScript-9.50](https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50) - RCE 0-day for GhostScript 9.50 - Payload generator (1 week ago)
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (2 weeks ago)
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (2 weeks ago)
