@@ -14,7 +14,7 @@
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (2 weeks ago)
 - [bpierre/loot-rarity](https://github.com/bpierre/loot-rarity) - 🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot. (2 weeks ago)
 - [duc-nt/RCE-0-day-for-GhostScript-9.50](https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50) - RCE 0-day for GhostScript 9.50 - Payload generator (3 weeks ago)
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (3 weeks ago)
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (4 weeks ago)
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (1 month ago)
 - [Hiroshiba/voicevox](https://github.com/Hiroshiba/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのフロントエンド (1 month ago)
 
