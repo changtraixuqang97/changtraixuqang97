@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (today)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (1 week ago)
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (1 week ago)
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂 (3 weeks ago)
@@ -16,7 +17,6 @@
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (4 weeks ago)
 - [bpierre/loot-rarity](https://github.com/bpierre/loot-rarity) - 🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot. (1 month ago)
 - [duc-nt/RCE-0-day-for-GhostScript-9.50](https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50) - RCE 0-day for GhostScript 9.50 - Payload generator (1 month ago)
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
