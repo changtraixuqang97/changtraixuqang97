@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (1 day ago)
-- [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (6 days ago)
+- [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (2 days ago)
+- [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (1 week ago)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (2 weeks ago)
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (2 weeks ago)
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂 (4 weeks ago)
