@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (3 days ago)
+- [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql) - PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. (today)
+- [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (4 days ago)
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (1 week ago)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (2 weeks ago)
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (2 weeks ago)
@@ -16,7 +17,6 @@
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ? (1 month ago)
 - [xiecat/goblin](https://github.com/xiecat/goblin) - 一款适用于红蓝对抗中的仿真钓鱼系统 (1 month ago)
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (1 month ago)
-- [bpierre/loot-rarity](https://github.com/bpierre/loot-rarity) - 🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
