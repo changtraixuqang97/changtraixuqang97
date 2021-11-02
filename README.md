@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql) - PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. (today)
-- [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (4 days ago)
+- [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql) - PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. (1 day ago)
+- [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (5 days ago)
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (1 week ago)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (2 weeks ago)
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (2 weeks ago)
