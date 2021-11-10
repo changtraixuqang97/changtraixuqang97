@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务 (today)
-- [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (1 day ago)
-- [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures (5 days ago)
-- [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen. (6 days ago)
+- [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务 (1 day ago)
+- [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (2 days ago)
+- [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures (6 days ago)
+- [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen. (1 week ago)
 - [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql) - PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. (1 week ago)
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (1 week ago)
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (2 weeks ago)
