@@ -7,15 +7,15 @@
 
 #### ⭐ Recent Stars
 
-- [slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单 (1 day ago)
-- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) (5 days ago)
+- [slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单 (2 days ago)
+- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) (6 days ago)
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务 (1 week ago)
 - [peng-zhihui/Peak](https://github.com/peng-zhihui/Peak) - Tiny Mobile Terminal Device Kit. (1 week ago)
 - [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures (2 weeks ago)
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen. (2 weeks ago)
 - [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql) - PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. (2 weeks ago)
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3 (3 weeks ago)
-- [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (3 weeks ago)
+- [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) -  (4 weeks ago)
 - [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects&#39;s source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. (1 month ago)
 
 #### 👯 Check out some of my recent followers
