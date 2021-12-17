@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (3 days ago)
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (4 days ago)
 - [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册 (1 week ago)
 - [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output (1 week ago)
 - [JohnSundell/CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs. (1 week ago)
