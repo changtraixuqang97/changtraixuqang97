@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book &#34;Performance Analysis and Tuning on Modern CPU&#34; (today)
-- [tenderlove/asmrepl](https://github.com/tenderlove/asmrepl) - A REPL for x86-64 assembly language (2 days ago)
+- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book &#34;Performance Analysis and Tuning on Modern CPU&#34; (1 day ago)
+- [tenderlove/asmrepl](https://github.com/tenderlove/asmrepl) - A REPL for x86-64 assembly language (3 days ago)
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
-- [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI &#43; Combine &#43; Swift Concurrency 开发的 macOS 应用 (1 week ago)
+- [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI &#43; Combine &#43; Swift Concurrency Aysnc/Await Actor &#43; GitHub API 开发的 macOS 应用 (2 weeks ago)
 - [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output (2 weeks ago)
 - [JohnSundell/CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs. (2 weeks ago)
 - [stong/infosec-resources](https://github.com/stong/infosec-resources) - A list of helpful cybersecurity / infosec resources (4 weeks ago)
