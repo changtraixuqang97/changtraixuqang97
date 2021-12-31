@@ -7,13 +7,13 @@
 
 #### ⭐ Recent Stars
 
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (1 day ago)
-- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (4 days ago)
-- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable (6 days ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (2 days ago)
+- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (5 days ago)
+- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable (1 week ago)
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book &#34;Performance Analysis and Tuning on Modern CPU&#34; (1 week ago)
 - [tenderlove/asmrepl](https://github.com/tenderlove/asmrepl) - A REPL for x86-64 assembly language (1 week ago)
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 weeks ago)
-- [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI &#43; Combine &#43; Swift Concurrency Aysnc/Await Actor &#43; GitHub API 开发的 macOS 应用 (3 weeks ago)
+- [KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI &#43; Combine &#43; Swift Concurrency Aysnc/Await Actor &#43; GitHub API 开发的 macOS 应用 (3 weeks ago)
 - [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output (3 weeks ago)
 - [JohnSundell/CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs. (3 weeks ago)
 - [stong/infosec-resources](https://github.com/stong/infosec-resources) - A list of helpful cybersecurity / infosec resources (1 month ago)
