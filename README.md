@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (2 days ago)
-- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (5 days ago)
+- [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (3 days ago)
+- [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (6 days ago)
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable (1 week ago)
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book &#34;Performance Analysis and Tuning on Modern CPU&#34; (1 week ago)
 - [tenderlove/asmrepl](https://github.com/tenderlove/asmrepl) - A REPL for x86-64 assembly language (1 week ago)
