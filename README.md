@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization (1 day ago)
-- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (5 days ago)
+- [mchong6/JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization (2 days ago)
+- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (6 days ago)
 - [bytedance/btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO. (1 week ago)
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (2 weeks ago)
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring. (2 weeks ago)
