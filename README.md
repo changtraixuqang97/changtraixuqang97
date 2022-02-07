@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (today)
-- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL (1 day ago)
-- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos (2 days ago)
-- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell. (4 days ago)
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (5 days ago)
-- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (6 days ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (1 day ago)
+- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL (2 days ago)
+- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos (3 days ago)
+- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell. (5 days ago)
+- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (6 days ago)
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (1 week ago)
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️ (1 week ago)
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules (1 week ago)
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (1 week ago)
-- [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis (1 week ago)
+- [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
