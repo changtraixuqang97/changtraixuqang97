@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (3 days ago)
-- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL (4 days ago)
-- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos (5 days ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (4 days ago)
+- [max-sixty/prql](https://github.com/max-sixty/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL (5 days ago)
+- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos (6 days ago)
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell. (1 week ago)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (1 week ago)
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more (1 week ago)
