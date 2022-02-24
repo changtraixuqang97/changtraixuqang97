@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support. (2 days ago)
-- [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily cross-compile, package and publish your .NET application to NuGet and GitHub. (3 days ago)
+- [levkk/pgcat](https://github.com/levkk/pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support. (3 days ago)
+- [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily cross-compile, package and publish your .NET application to NuGet and GitHub. (4 days ago)
 - [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   (1 week ago)
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 week ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io (2 weeks ago)
