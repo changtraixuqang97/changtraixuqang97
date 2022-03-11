@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (2 days ago)
-- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - 🔥 An inline hook library for Android apps. (thumb &#43; arm32 &#43; arm64) (5 days ago)
-- [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022) (1 week ago)
+- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (3 days ago)
+- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - 🔥 An inline hook library for Android apps. (thumb &#43; arm32 &#43; arm64) (6 days ago)
+- [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022) (2 weeks ago)
 - [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (2 weeks ago)
 - [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub. (2 weeks ago)
 - [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   (3 weeks ago)
