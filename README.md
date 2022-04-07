@@ -11,7 +11,7 @@
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions  (1 week ago)
 - [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. (2 weeks ago)
 - [emilepetrone/financial_advice](https://github.com/emilepetrone/financial_advice) - What financial info would I have wanted to know when I was 22 and jumping into tech? (3 weeks ago)
-- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (4 weeks ago)
+- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (1 month ago)
 - [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :pushpin: shadowhook is an android inline hook library which supports thumb, arm32 and arm64. (1 month ago)
 - [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022) (1 month ago)
 - [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (1 month ago)
