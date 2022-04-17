@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (1 day ago)
-- [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (2 days ago)
-- [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (3 days ago)
-- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (4 days ago)
-- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (5 days ago)
+- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (2 days ago)
+- [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (3 days ago)
+- [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (4 days ago)
+- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (5 days ago)
+- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (6 days ago)
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io (1 week ago)
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy. (1 week ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (2 weeks ago)
