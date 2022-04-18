@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (2 days ago)
-- [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (3 days ago)
-- [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (4 days ago)
-- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (5 days ago)
-- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (6 days ago)
+- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (3 days ago)
+- [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (4 days ago)
+- [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (5 days ago)
+- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (6 days ago)
+- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (1 week ago)
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io (1 week ago)
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy. (1 week ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (2 weeks ago)
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions  (3 weeks ago)
-- [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. (4 weeks ago)
+- [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
