@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (5 days ago)
-- [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (6 days ago)
+- [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (6 days ago)
+- [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (1 week ago)
 - [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (1 week ago)
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (1 week ago)
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (1 week ago)
