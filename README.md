@@ -12,7 +12,7 @@
 - [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (1 week ago)
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (1 week ago)
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations (1 week ago)
-- [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io (1 week ago)
+- [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io (2 weeks ago)
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy. (2 weeks ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (3 weeks ago)
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions  (4 weeks ago)
