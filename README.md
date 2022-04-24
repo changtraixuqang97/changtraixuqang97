@@ -15,7 +15,7 @@
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io (2 weeks ago)
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy. (2 weeks ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (3 weeks ago)
-- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions  (4 weeks ago)
+- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions  (1 month ago)
 - [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. (1 month ago)
 
 #### 👯 Check out some of my recent followers
