@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - The most trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React! (today)
-- [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code (5 days ago)
+- [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。 (today)
+- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - The most trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React! (1 day ago)
+- [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code (6 days ago)
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips (1 week ago)
 - [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area. (1 week ago)
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python (2 weeks ago)
@@ -16,7 +17,6 @@
 - [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) - Paper Writing Tips (3 weeks ago)
 - [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup (1 month ago)
 - [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/) (1 month ago)
-- [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
