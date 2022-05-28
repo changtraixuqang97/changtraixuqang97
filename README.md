@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (3 days ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 week ago)
 - [biggerduck/RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记 (1 week ago)
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。 (1 week ago)
