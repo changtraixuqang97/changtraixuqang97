@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (today)
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (1 week ago)
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google&#39;s Text-to-Image Neural Network, in Pytorch (1 week ago)
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Decentralized blogs and websites powered by IPFS and Ethereum Name System (1 week ago)
@@ -16,7 +17,6 @@
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (3 weeks ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 month ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 month ago)
-- [biggerduck/RedTeamNotes](https://github.com/biggerduck/RedTeamNotes) - 红队笔记 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
