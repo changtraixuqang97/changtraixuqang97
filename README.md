@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (today)
+- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (1 day ago)
 - [mattreid1/baojs](https://github.com/mattreid1/baojs) - ⚡️ A fast, minimalist web framework for the Bun JavaScript runtime (1 week ago)
-- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (1 week ago)
+- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (2 weeks ago)
 - [LeadCoding/3-weeks-Google-Prep](https://github.com/LeadCoding/3-weeks-Google-Prep) -  (1 month ago)
 - [focus-creative-games/hybridclr](https://github.com/focus-creative-games/hybridclr) - HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity&#39;s all-platform native c# hotfix (1 month ago)
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts (1 month ago)
