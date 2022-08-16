@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (3 days ago)
+- [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. (4 days ago)
 - [mattreid1/baojs](https://github.com/mattreid1/baojs) - ⚡️ A fast, minimalist web framework for the Bun JavaScript runtime (1 week ago)
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (2 weeks ago)
 - [LeadCoding/3-weeks-Google-Prep](https://github.com/LeadCoding/3-weeks-Google-Prep) - Here&#39;s how to use it: (1 month ago)
