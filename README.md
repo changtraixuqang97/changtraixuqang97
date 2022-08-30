@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [f2e-developer/chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) - 中国前端开发者。 (4 days ago)
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (today)
+- [f2e-developer/chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) - 中国前端开发者。 (5 days ago)
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (1 week ago)
 - [webfansplz/temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps (1 week ago)
 - [Chenyu-otf/chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保質期，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。 (1 week ago)
@@ -16,7 +17,6 @@
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (1 month ago)
 - [LeadCoding/3-weeks-Google-Prep](https://github.com/LeadCoding/3-weeks-Google-Prep) - Here&#39;s how to use it: (1 month ago)
 - [focus-creative-games/hybridclr](https://github.com/focus-creative-games/hybridclr) - HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity&#39;s all-platform native c# hotfix (1 month ago)
-- [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
