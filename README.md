@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (2 days ago)
-- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (5 days ago)
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (6 days ago)
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator (3 days ago)
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem (6 days ago)
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (1 week ago)
 - [f2e-developer/chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) - 中国前端开发者。 (1 week ago)
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (2 weeks ago)
 - [webfansplz/temir](https://github.com/webfansplz/temir) - Vue for interactive command-line apps (2 weeks ago)
