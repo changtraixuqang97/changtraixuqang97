@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) (today)
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (4 days ago)
-- [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium (5 days ago)
+- [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) (1 day ago)
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (5 days ago)
+- [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium (6 days ago)
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (1 week ago)
 - [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (1 week ago)
 - [score-spec/spec](https://github.com/score-spec/spec) - The score specification file (1 week ago)
