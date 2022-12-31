@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (today)
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (1 week ago)
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥 (1 week ago)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models (2 weeks ago)
@@ -16,7 +17,6 @@
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium (3 weeks ago)
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (4 weeks ago)
 - [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (1 month ago)
-- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
