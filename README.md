@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [Kadenio/Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C# (1 day ago)
-- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (2 days ago)
-- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose (3 days ago)
-- [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files. (5 days ago)
+- [Kadenio/Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C# (2 days ago)
+- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (3 days ago)
+- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose (4 days ago)
+- [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files. (6 days ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (1 week ago)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (1 week ago)
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI. (2 weeks ago)
