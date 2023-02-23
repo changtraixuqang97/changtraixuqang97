@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [CMEPW/BypassAV](https://github.com/CMEPW/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR (today)
-- [Kadenio/Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C# (5 days ago)
-- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (6 days ago)
+- [CMEPW/BypassAV](https://github.com/CMEPW/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR (1 day ago)
+- [Kadenio/Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C# (6 days ago)
+- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (1 week ago)
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose (1 week ago)
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files. (1 week ago)
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (1 week ago)
