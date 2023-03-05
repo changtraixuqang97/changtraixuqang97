@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (today)
-- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video (3 days ago)
-- [adamelmore/good-repo](https://github.com/adamelmore/good-repo) - Preeeeetty, pretty good (5 days ago)
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (1 day ago)
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video (4 days ago)
+- [adamelmore/good-repo](https://github.com/adamelmore/good-repo) - Preeeeetty, pretty good (6 days ago)
 - [CMEPW/BypassAV](https://github.com/CMEPW/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR (1 week ago)
 - [Kadenio/Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C# (2 weeks ago)
 - [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (2 weeks ago)
