@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API. (3 days ago)
-- [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) -  (4 days ago)
+- [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API. (4 days ago)
+- [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) -  (5 days ago)
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (1 week ago)
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video (1 week ago)
 - [adamelmore/good-repo](https://github.com/adamelmore/good-repo) - Preeeeetty, pretty good (1 week ago)
