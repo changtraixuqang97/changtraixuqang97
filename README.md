@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (1 day ago)
-- [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion (6 days ago)
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (2 days ago)
+- [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
-- [keijiro/AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor (1 week ago)
+- [keijiro/AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor (2 weeks ago)
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client (2 weeks ago)
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100&#43;站点 (3 weeks ago)
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps (3 weeks ago)
