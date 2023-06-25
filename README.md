@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware (1 day ago)
-- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (3 days ago)
-- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡ (6 days ago)
+- [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware (2 days ago)
+- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (4 days ago)
+- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡ (1 week ago)
 - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (1 week ago)
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction (2 weeks ago)
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (3 weeks ago)
