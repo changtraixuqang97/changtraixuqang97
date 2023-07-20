@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (4 days ago)
+- [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything (today)
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (5 days ago)
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another. (2 weeks ago)
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. (2 weeks ago)
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required. (2 weeks ago)
@@ -16,7 +17,6 @@
 - [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc. (4 weeks ago)
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡ (1 month ago)
 - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (1 month ago)
-- [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
