@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) -  (1 day ago)
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model (6 days ago)
+- [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) -  (2 days ago)
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model (1 week ago)
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~ (1 week ago)
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system (1 week ago)
 - [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用 (2 weeks ago)
