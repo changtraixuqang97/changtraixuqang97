@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (1 day ago)
+- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (today)
+- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (2 days ago)
 - [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (1 week ago)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (1 week ago)
 - [dot-agent/openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X  faster LLaMA 2) (1 week ago)
@@ -16,7 +17,6 @@
 - [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (2 weeks ago)
 - [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - &#34;Effective Whole-body Pose Estimation with Two-stages Distillation&#34; (ICCV 2023, CV4Metaverse Workshop) (2 weeks ago)
 - [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) -  (3 weeks ago)
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
