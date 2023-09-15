@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (4 days ago)
-- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (6 days ago)
+- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (5 days ago)
+- [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (1 week ago)
 - [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (1 week ago)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (2 weeks ago)
 - [dot-agent/dotagent](https://github.com/dot-agent/dotagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X  faster LLaMA 2) (2 weeks ago)
