@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (6 days ago)
+- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (today)
+- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (1 week ago)
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (1 week ago)
 - [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (2 weeks ago)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (2 weeks ago)
@@ -16,7 +17,6 @@
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project (3 weeks ago)
 - [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (3 weeks ago)
 - [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - &#34;Effective Whole-body Pose Estimation with Two-stages Distillation&#34; (ICCV 2023, CV4Metaverse Workshop) (3 weeks ago)
-- [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
