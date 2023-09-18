@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (today)
+- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 day ago)
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (1 week ago)
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (1 week ago)
 - [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (2 weeks ago)
