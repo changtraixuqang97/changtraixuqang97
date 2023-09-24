@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (1 day ago)
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (3 days ago)
-- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (6 days ago)
-- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (1 week ago)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (2 days ago)
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (4 days ago)
+- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 week ago)
+- [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust (2 weeks ago)
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (2 weeks ago)
 - [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (3 weeks ago)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (3 weeks ago)
