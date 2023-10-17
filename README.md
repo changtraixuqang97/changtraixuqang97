@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (today)
-- [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA) - Code and documents of LongLoRA and LongAlpaca (3 days ago)
-- [Pondorasti/emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (4 days ago)
-- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (6 days ago)
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer. (1 day ago)
+- [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA) - Code and documents of LongLoRA and LongAlpaca (4 days ago)
+- [Pondorasti/emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (5 days ago)
+- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (1 week ago)
 - [zhile-io/blank](https://github.com/zhile-io/blank) - 什么都没有。 (1 week ago)
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia (1 week ago)
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework (2 weeks ago)
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (3 weeks ago)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (3 weeks ago)
-- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (4 weeks ago)
+- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
