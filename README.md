@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (5 days ago)
-- [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) -  (6 days ago)
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (6 days ago)
+- [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) -  (1 week ago)
 - [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (1 week ago)
 - [Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. (2 weeks ago)
 - [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。 (2 weeks ago)
