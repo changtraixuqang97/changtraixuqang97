@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the browser. (today)
+- [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (today)
+- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the browser. (1 day ago)
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (1 week ago)
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) -  (1 week ago)
 - [YORG-AI/Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version (2 weeks ago)
@@ -16,7 +17,6 @@
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website (3 weeks ago)
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) -  (1 month ago)
 - [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs (1 month ago)
-- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
