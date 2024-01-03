@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine. (4 days ago)
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine. (5 days ago)
 - [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI (1 week ago)
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers (1 week ago)
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) -  (1 week ago)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning (1 week ago)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning (2 weeks ago)
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource. (2 weeks ago)
 - [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice &#43; Vision powered AI assistant that answers questions about any application, in context and in audio. (2 weeks ago)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (3 weeks ago)
