@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch. (today)
-- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (1 day ago)
+- [johnma2006/mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch. (1 day ago)
+- [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge. (2 days ago)
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine. (1 week ago)
 - [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI (1 week ago)
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers (2 weeks ago)
