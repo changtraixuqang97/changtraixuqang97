@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (today)
-- [AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) -  (4 days ago)
-- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: &#34;Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering&#34;&#34; (5 days ago)
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) (6 days ago)
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files (1 day ago)
+- [AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) -  (5 days ago)
+- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: &#34;Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering&#34;&#34; (6 days ago)
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) (1 week ago)
 - [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre (1 week ago)
 - [hustvl/Vim](https://github.com/hustvl/Vim) - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model (1 week ago)
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac. (1 week ago)
