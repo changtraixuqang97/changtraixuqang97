@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS (1 day ago)
-- [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (6 days ago)
+- [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS (2 days ago)
+- [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (1 week ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) -  (1 week ago)
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (1 week ago)
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app. (2 weeks ago)
