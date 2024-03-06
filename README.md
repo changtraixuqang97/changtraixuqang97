@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet (today)
-- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (3 days ago)
-- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind. (5 days ago)
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (today)
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet (1 day ago)
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (4 days ago)
+- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind. (6 days ago)
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Develop LLM Apps in Natural Language (1 week ago)
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS (2 weeks ago)
 - [all-in-aigc/aicover](https://github.com/all-in-aigc/aicover) - ai cover generator (3 weeks ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) -  (3 weeks ago)
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (3 weeks ago)
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app. (4 weeks ago)
-- [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI (1 month ago)
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
