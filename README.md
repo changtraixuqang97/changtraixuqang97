@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) -  (2 days ago)
+- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) -  (3 days ago)
 - [layerdiffusion/sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge) (1 week ago)
 - [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets (1 week ago)
-- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (1 week ago)
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (2 weeks ago)
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet (2 weeks ago)
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (2 weeks ago)
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind. (2 weeks ago)
