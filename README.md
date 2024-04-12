@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (today)
-- [lichao-sun/Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation (1 week ago)
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (1 day ago)
+- [lichao-sun/Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation (2 weeks ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable! (2 weeks ago)
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions (2 weeks ago)
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) -  (3 weeks ago)
