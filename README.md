@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [kevinbentley/Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment (today)
-- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI (2 days ago)
-- [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. (3 days ago)
+- [kevinbentley/Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment (1 day ago)
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI (3 days ago)
+- [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. (4 days ago)
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (1 week ago)
 - [lichao-sun/Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation (3 weeks ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable! (3 weeks ago)
