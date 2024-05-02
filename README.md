@@ -10,7 +10,7 @@
 - [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment (1 week ago)
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI (2 weeks ago)
 - [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. (2 weeks ago)
-- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (2 weeks ago)
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (3 weeks ago)
 - [lichao-sun/Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation (1 month ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (1 month ago)
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions (1 month ago)
