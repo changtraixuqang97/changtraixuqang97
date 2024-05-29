@@ -8,7 +8,7 @@
 #### ⭐ Recent Stars
 
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js. (1 week ago)
-- [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (1 week ago)
+- [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (2 weeks ago)
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps (2 weeks ago)
 - [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models (2 weeks ago)
 - [DescentDevelopers/Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment (1 month ago)
