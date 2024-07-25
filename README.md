@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (2 days ago)
-- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C. (3 days ago)
-- [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) - Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning (4 days ago)
-- [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (5 days ago)
+- [ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03) -  (3 days ago)
+- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C. (4 days ago)
+- [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) - Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning (5 days ago)
+- [nate-parrott/ball](https://github.com/nate-parrott/ball) -  (6 days ago)
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! (1 week ago)
 - [cambrian-mllm/cambrian](https://github.com/cambrian-mllm/cambrian) - Cambrian-1 is a family of multimodal LLMs with a vision-centric design. (1 week ago)
 - [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR. (2 weeks ago)
