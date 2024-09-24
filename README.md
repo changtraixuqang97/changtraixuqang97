@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (today)
-- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (5 days ago)
-- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (6 days ago)
+- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (1 day ago)
+- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (6 days ago)
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (1 week ago)
 - [meethigher/black-wukong-youji](https://github.com/meethigher/black-wukong-youji) - 黑神话悟空妖怪平生录 (1 week ago)
 - [ankane/transformers-ruby](https://github.com/ankane/transformers-ruby) - State-of-the-art transformers for Ruby (1 week ago)
 - [seekbytes/IPA](https://github.com/seekbytes/IPA) - GUI analyzer for deep-diving into PDF files. Detect malicious payloads, understand object relationships, and extract key information for threat analysis. (2 weeks ago)
