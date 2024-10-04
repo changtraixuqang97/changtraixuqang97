@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [udecode/dotai](https://github.com/udecode/dotai) -  (today)
-- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (1 day ago)
-- [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (5 days ago)
+- [udecode/dotai](https://github.com/udecode/dotai) -  (1 day ago)
+- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (2 days ago)
+- [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (6 days ago)
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (1 week ago)
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (2 weeks ago)
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (2 weeks ago)
